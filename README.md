@@ -1,2 +1,2 @@
 # hello-world
-Created for webdevelopment fundamentals. 
+Created for web development fundamentals. 
